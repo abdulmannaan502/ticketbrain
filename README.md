@@ -68,12 +68,12 @@ Model Training → Evaluation → Saved Pipeline (`.joblib`)
 ---
 
 ### 🎫 Ticket Submission & Priority Prediction
-![Ticket Priority](imag/tp.png)
+![Ticket Priority](https://github.com/abdulmannaan502/ticketbrain/blob/233b94cdd9a39b6306c01c525bfc069074137765/Img/tp.png)
 
 ---
 
 ### ✅ Prediction Result Page
-![Response](imag/result.png)
+![Response](https://github.com/abdulmannaan502/ticketbrain/blob/233b94cdd9a39b6306c01c525bfc069074137765/Img/result.png)
 
 ---
 
