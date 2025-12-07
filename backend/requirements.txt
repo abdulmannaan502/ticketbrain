@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+sqlalchemy
+psycopg2-binary
+passlib
+python-jose[cryptography]
+python-multipart
+pandas
+scikit-learn
+joblib
+prometheus-fastapi-instrumentator
+pydantic-settings
+huggingface_hub
+email-validator
