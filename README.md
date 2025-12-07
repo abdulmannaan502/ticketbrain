@@ -60,6 +60,20 @@ Model Training → Evaluation → Saved Pipeline (`.joblib`)
   "priority_score": 0.56
 }
 ```
+## 📸 Demo Screenshots
+
+### 🔐 Login Screen
+![Login Screen](imag/login.png)
+
+---
+
+### 🎫 Ticket Submission & Priority Prediction
+![Ticket Priority](imag/tp.png)
+
+---
+
+### ✅ Prediction Result Page
+![Response](imag/result.png)
 
 ---
 
