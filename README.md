@@ -63,7 +63,7 @@ Model Training → Evaluation → Saved Pipeline (`.joblib`)
 ## 📸 Demo Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](imag/login.png)
+![Login Screen](https://github.com/abdulmannaan502/ticketbrain/blob/3c5cbb4a8dc30fffd06e6fe17bb7475828587f3c/Img/login.png)
 
 ---
 
